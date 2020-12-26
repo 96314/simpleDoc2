@@ -1,3 +1,4 @@
+
 import com.github.apiggs.Apiggs;
 import com.github.apiggs.Environment;
 import org.apache.maven.plugin.AbstractMojo;
