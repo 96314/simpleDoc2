@@ -27,7 +27,7 @@ public class Environment {
 
     Logger log = LoggerFactory.getLogger(this.getClass());
 
-    public static final String NAME = "simpleDoc";
+    public static final String NAME = "generateDoc";
 
     public static final Path DEFAULT_PRODUCTION = Paths.get(NAME);
     public static final Path DEFAULT_SOURCE_STRUCTURE = Paths.get("src", "main", "java");
