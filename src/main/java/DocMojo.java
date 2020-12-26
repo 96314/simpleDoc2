@@ -1,10 +1,11 @@
 
-import apigcc.core.Apigcc;
-import apigcc.core.Context;
+
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugins.annotations.Mojo;
 import org.apache.maven.plugins.annotations.Parameter;
 import org.apache.maven.project.MavenProject;
+import simple.core.Apigcc;
+import simple.core.Context;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
