@@ -22,6 +22,7 @@ simple/core/schema/Row.class
 simple/core/render/AsciidocRender.class
 simple/web/ParameterHelper.class
 simple/core/common/helper/FieldHelper.class
+DocMojo2.class
 simple/core/Apigcc.class
 simple/core/common/postman/Item.class
 simple/core/common/diff/FileSystem.class
@@ -61,7 +62,6 @@ simple/core/common/postman/Response.class
 simple/core/schema/Chapter.class
 simple/core/common/diff/MatchPatcher$1.class
 simple/core/schema/Project.class
-DocMojo.class
 simple/core/common/helper/AnnotationHelper.class
 simple/core/common/ObjectMappers.class
 simple/web/RequestMappingHelper.class

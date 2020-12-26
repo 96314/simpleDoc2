@@ -43,6 +43,7 @@
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/schema/Node.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/render/PostmanRender.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/resolver/TypeResolvers.java
+/Users/apple/IdeaProjects/simpleDoc2/src/main/java/DocMojo2.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/common/QueryStringBuilder.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/schema/Book.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/web/ParameterHelper.java
@@ -54,7 +55,6 @@
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/schema/Method.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/render/ProjectRender.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/common/helper/ValidationHelper.java
-/Users/apple/IdeaProjects/simpleDoc2/src/main/java/DocMojo.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/common/markup/asciidoc/Color.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/common/Assert.java
 /Users/apple/IdeaProjects/simpleDoc2/src/main/java/simple/core/resolver/ReferenceTypeResolver.java
